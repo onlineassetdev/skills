@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing-for-xxe-injection-vulnerabilities",
+  "owner": "mukul975",
+  "repo": "anthropic-cybersecurity-skills",
+  "path": "skills/testing-for-xxe-injection-vulnerabilities",
+  "branch": "main",
+  "sha": "fe93ba8cc172d0e9444f8731e804be3039fbc05c",
+  "source": "manual"
+}

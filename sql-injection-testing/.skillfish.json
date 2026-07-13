@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sql-injection-testing",
+  "owner": "zebbern",
+  "repo": "claude-code-guide",
+  "path": "skills/sql-injection-testing",
+  "branch": "main",
+  "sha": "0bc038e40913ec3f76abbc2bb17e53f54cdea134",
+  "source": "manual"
+}

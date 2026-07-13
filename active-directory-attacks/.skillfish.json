@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "active-directory-attacks",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/active-directory-attacks",
+  "branch": "main",
+  "sha": "c92b9bb5906e64f0da97c719179d0b1946b4cae9",
+  "source": "manual"
+}

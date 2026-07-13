@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "owasp-zap-security",
+  "owner": "a5c-ai",
+  "repo": "babysitter",
+  "path": "library/specializations/qa-testing-automation/skills/owasp-zap-security",
+  "branch": "main",
+  "sha": "14e4ab514b8fab6155ae3f4b6df9065ae99eb459",
+  "source": "manual"
+}

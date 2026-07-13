@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "web-security-testing",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/web-security-testing",
+  "branch": "main",
+  "sha": "c8283809547ed580376d07059c1e5735f392492c",
+  "source": "manual"
+}

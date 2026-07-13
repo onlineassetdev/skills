@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing-api-security-with-owasp-top-10",
+  "owner": "mukul975",
+  "repo": "anthropic-cybersecurity-skills",
+  "path": "skills/testing-api-security-with-owasp-top-10",
+  "branch": "main",
+  "sha": "101a05cb6b47b53f53c989881fb8c81e9e79ccba",
+  "source": "manual"
+}

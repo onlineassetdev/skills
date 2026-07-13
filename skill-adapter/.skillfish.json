@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-adapter",
+  "owner": "jeremylongshore",
+  "repo": "claude-code-plugins-plus-skills",
+  "path": "plugins/examples/pi-pathfinder/skills/skill-adapter",
+  "branch": "main",
+  "sha": "ea41b201a2bbf4b00cac942637b04beda02c0241",
+  "source": "manual"
+}

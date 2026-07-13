@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-security-testing",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/api-security-testing",
+  "branch": "main",
+  "sha": "ecf75e06d537b8eb9b81c06a5465c04181e700f8",
+  "source": "manual"
+}
